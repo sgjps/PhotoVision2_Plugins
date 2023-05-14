@@ -1,4 +1,4 @@
-# PhotoVision2_Public
+# PhotoVision2 
 
 Public repository for PhotoVision2
 
