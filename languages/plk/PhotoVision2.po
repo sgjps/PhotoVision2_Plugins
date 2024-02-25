@@ -1,0 +1,887 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.2\n"
+
+#: appupdate.appupdate_button_cancel
+msgctxt "App Update Dialog"
+msgid "Cancel"
+msgstr "Anuluj"
+
+#: appupdate.appupdate_button_download
+msgctxt "App Update Dialog"
+msgid "Download"
+msgstr "Pobierz"
+
+#: appupdate.appupdate_button_no
+msgctxt "App Update Dialog"
+msgid "No"
+msgstr "Nie"
+
+#: appupdate.appupdate_header_caption
+msgctxt "App Update Dialog"
+msgid "An update is available."
+msgstr "Znaleziono aktualizację."
+
+#: appupdate.appupdate_lbl_question
+msgctxt "App Update Dialog"
+msgid "Would you like to download and install this update?"
+msgstr "Czy chcesz pobrać i zainstalować tę aktualizację?"
+
+#: appupdate.appupdate_lbl_version
+msgctxt "App Update Dialog"
+msgid "Version:"
+msgstr "Wersja:"
+
+#: appupdate.appupdate_lbl_whatsnew
+msgctxt "App Update Dialog"
+msgid "Whats new?"
+msgstr "Co nowego?"
+
+#: appupdate.appupdate_window_caption
+msgctxt "App Update Dialog"
+msgid "Update"
+msgstr "Aktualizacja"
+
+#: mainform.openfiletitle
+msgid "Open existing File"
+msgstr "Otwórz istniejący plik"
+
+#: mainform.rk_unregistereddlg
+msgctxt "mainform.rk_unregistereddlg"
+msgid "This app is unregistered or license has expired"
+msgstr "Ten program nie został zarejestrowany lub licencja wygasła"
+
+#: mainform.rs_drive_cdrom
+msgid "Optical Drive"
+msgstr "Dysk optyczny"
+
+#: mainform.rs_drive_fixed
+msgid "Local Drive"
+msgstr "Dysk Lokalny"
+
+#: mainform.rs_drive_ramdisk
+msgid "Ram Disk"
+msgstr "Ram Dysk"
+
+#: mainform.rs_drive_remote
+msgid "Network Drive"
+msgstr "Dysk Sieciowy"
+
+#: mainform.rs_drive_removable
+msgid "Removable Drive"
+msgstr "Dysk Wymienny"
+
+#: mainform.rs_screencapturecaption
+msgid "Screen Capture"
+msgstr "Zrzut ekranu"
+
+#: mainform.rs_screencapturedescription
+msgid "Screen is saved in Pictures directory"
+msgstr "Obraz został zapisany w folderze Obrazy"
+
+#: mainform.savefiletitle
+msgid "Save to File"
+msgstr "Zapisz do pliku"
+
+#: sgj.productkey.pk_error
+msgid "Registered Error"
+msgstr "Błąd rejestracji"
+
+#: sgj.productkey.pk_invalidkeymessage
+msgid "Invalid product key. Input correct license data."
+msgstr "Nieprawidłowy klucz produktu. Wprowadź prawidłowe dane licencji."
+
+#: sgj.productkey.pk_registerok
+msgid "Application registered"
+msgstr "Aplikacja zarejestrowana"
+
+#: sgj.productkey.pk_restartmessage
+msgid "A new product key has been entered. You need to close and restart App."
+msgstr "Wprowadzono nowy klucz produktu. Zamknij i uruchom ponownie aplikację."
+
+#: tappfrm.bnt_apppanel_batch.caption
+msgctxt "tappfrm.bnt_apppanel_batch.caption"
+msgid "Batch Rename/Conversion"
+msgstr "Konwersja wsadowa/zmiana nazw"
+
+#: tappfrm.bnt_apppanel_close.caption
+msgctxt "tappfrm.bnt_apppanel_close.caption"
+msgid "Close"
+msgstr "Zamknij"
+
+#: tappfrm.bnt_apppanel_help.caption
+msgctxt "tappfrm.bnt_apppanel_help.caption"
+msgid "Help"
+msgstr "Pomoc"
+
+#: tappfrm.bnt_apppanel_help_docs.caption
+msgctxt "tappfrm.bnt_apppanel_help_docs.caption"
+msgid "PhotoVision Documentation"
+msgstr "Dokumentacja"
+
+#: tappfrm.bnt_apppanel_help_history.caption
+msgctxt "tappfrm.bnt_apppanel_help_history.caption"
+msgid "PhotoVision Revision History"
+msgstr "Historia wersji"
+
+#: tappfrm.bnt_apppanel_help_homepage.caption
+msgctxt "tappfrm.bnt_apppanel_help_homepage.caption"
+msgid "PhotoVision Home Page"
+msgstr "Strona domowa"
+
+#: tappfrm.bnt_apppanel_help_support.caption
+msgctxt "tappfrm.bnt_apppanel_help_support.caption"
+msgid "PhotoVision Help and Support"
+msgstr "Pomoc i wsparcie"
+
+#: tappfrm.bnt_apppanel_open.caption
+msgctxt "tappfrm.bnt_apppanel_open.caption"
+msgid "Open"
+msgstr "Otwórz"
+
+#: tappfrm.bnt_apppanel_register.caption
+msgctxt "tappfrm.bnt_apppanel_register.caption"
+msgid "Register"
+msgstr "Zarejestruj"
+
+#: tappfrm.bnt_apppanel_settings.caption
+msgctxt "tappfrm.bnt_apppanel_settings.caption"
+msgid "Settings"
+msgstr "Ustawienia"
+
+#: tappfrm.bnt_apppanel_update.caption
+msgctxt "tappfrm.bnt_apppanel_update.caption"
+msgid "Check for update"
+msgstr "Sprawdź aktualizacje"
+
+#: tappfrm.btn_buykey.caption
+msgctxt "tappfrm.btn_buykey.caption"
+msgid "Buy License Key"
+msgstr "Kup licencję"
+
+#: tappfrm.btn_explorer_openwith.caption
+msgctxt "tappfrm.btn_explorer_openwith.caption"
+msgid "Open with..."
+msgstr "Otwórz za pomocą..."
+
+#: tappfrm.btn_explorer_popup_delete.caption
+msgctxt "tappfrm.btn_explorer_popup_delete.caption"
+msgid "Delete"
+msgstr "Usuń"
+
+#: tappfrm.btn_explorer_popup_open.caption
+msgctxt "tappfrm.btn_explorer_popup_open.caption"
+msgid "Open"
+msgstr "Otwórz"
+
+#: tappfrm.btn_explorer_popup_properties.caption
+msgctxt "tappfrm.btn_explorer_popup_properties.caption"
+msgid "Properties"
+msgstr "Właściwości"
+
+#: tappfrm.btn_explorer_popup_rename.caption
+msgctxt "tappfrm.btn_explorer_popup_rename.caption"
+msgid "Rename"
+msgstr "Zmień nazwę"
+
+#: tappfrm.btn_explorer_popup_showexif.caption
+msgctxt "tappfrm.btn_explorer_popup_showexif.caption"
+msgid "Show EXIF Information"
+msgstr "Wyświetl informacje Exif"
+
+#: tappfrm.btn_explorer_popup_showexif1.caption
+msgid "Show Media Information"
+msgstr "Wyświetl informacje o pliku Audio/Video"
+
+#: tappfrm.btn_gettrialkey.caption
+msgctxt "tappfrm.btn_gettrialkey.caption"
+msgid "Get Trial License Key"
+msgstr "Odbierz kod Trial"
+
+#: tappfrm.btn_iconbrws_open.caption
+msgctxt "tappfrm.btn_iconbrws_open.caption"
+msgid "Open"
+msgstr "Otwórz"
+
+#: tappfrm.btn_iconbrws_save.caption
+msgctxt "tappfrm.btn_iconbrws_save.caption"
+msgid "Save"
+msgstr "Zapisz"
+
+#: tappfrm.btn_register.caption
+msgctxt "tappfrm.btn_register.caption"
+msgid "Register"
+msgstr "Zarejestruj"
+
+#: tappfrm.btn_titlebar_apppanel_file.caption
+msgctxt "tappfrm.btn_titlebar_apppanel_file.caption"
+msgid "File"
+msgstr "Plik"
+
+#: tappfrm.btn_titlepanel_explorer.hint
+msgctxt "tappfrm.btn_titlepanel_explorer.hint"
+msgid "Explorer View"
+msgstr "Widok Eksploratora"
+
+#: tappfrm.btn_titlepanel_imgview.hint
+msgctxt "tappfrm.btn_titlepanel_imgview.hint"
+msgid "Image View"
+msgstr "Widok obrazu"
+
+#: tappfrm.btn_titlepanel_printscreen.hint
+msgctxt "tappfrm.btn_titlepanel_printscreen.hint"
+msgid "Print Screen"
+msgstr "Zrzut Ekranu"
+
+#: tappfrm.btn_titlepanel_qr.hint
+msgid "QR Code Generator"
+msgstr "Generator kodów QR"
+
+#: tappfrm.dlg_openwidth_header.caption
+msgid "How do you want to open this file?"
+msgstr "Jak chcesz otworzyć ten plik?"
+
+#: tappfrm.explorer_lv_view_icons_btn.caption
+msgctxt "tappfrm.explorer_lv_view_icons_btn.caption"
+msgid "Icons"
+msgstr "Ikony"
+
+#: tappfrm.explorer_lv_view_icons_btn1.caption
+msgctxt "tappfrm.explorer_lv_view_icons_btn1.caption"
+msgid "Open"
+msgstr "Otwórz"
+
+#: tappfrm.explorer_lv_view_icons_btn2.caption
+msgctxt "tappfrm.explorer_lv_view_icons_btn2.caption"
+msgid "Exif"
+msgstr "Exif"
+
+#: tappfrm.explorer_lv_view_icons_btn3.caption
+msgctxt "tappfrm.explorer_lv_view_icons_btn3.caption"
+msgid "Open with..."
+msgstr ""
+"Otwórz za\n"
+" pomocą..."
+
+#: tappfrm.explorer_lv_view_icons_btn3.hint
+msgctxt "tappfrm.explorer_lv_view_icons_btn3.hint"
+msgid "Open with..."
+msgstr ""
+"Otwórz za\n"
+" pomocą..."
+
+#: tappfrm.explorer_lv_view_list_btn.caption
+msgctxt "tappfrm.explorer_lv_view_list_btn.caption"
+msgid "List"
+msgstr "Lista"
+
+#: tappfrm.explorer_lv_view_report_btn.caption
+msgctxt "tappfrm.explorer_lv_view_report_btn.caption"
+msgid "Details"
+msgstr "Szczegóły"
+
+#: tappfrm.explorer_lv_view_smicons_btn.caption
+msgctxt "tappfrm.explorer_lv_view_smicons_btn.caption"
+msgid "Small Icons"
+msgstr "Małe ikony"
+
+#: tappfrm.img_explorer_exif_camera.hint
+msgctxt "tappfrm.img_explorer_exif_camera.hint"
+msgid "Camera"
+msgstr "Aparat"
+
+#: tappfrm.img_explorer_exif_exposure.hint
+msgctxt "tappfrm.img_explorer_exif_exposure.hint"
+msgid "Exposure program"
+msgstr "Ekspozycja"
+
+#: tappfrm.img_explorer_exif_flash.hint
+msgctxt "tappfrm.img_explorer_exif_flash.hint"
+msgid "Flash mode"
+msgstr "Tryb lampy błyskowej"
+
+#: tappfrm.img_explorer_exif_imagetype.hint
+msgctxt "tappfrm.img_explorer_exif_imagetype.hint"
+msgid "Image Type"
+msgstr "Typ obrazu"
+
+#: tappfrm.img_explorer_exif_metering.hint
+msgctxt "tappfrm.img_explorer_exif_metering.hint"
+msgid "Metering mode"
+msgstr "Tryb pomiaru"
+
+#: tappfrm.infopanel_author.caption
+msgctxt "tappfrm.infopanel_author.caption"
+msgid "Author"
+msgstr "Autor"
+
+#: tappfrm.infopanel_copyright.caption
+msgctxt "tappfrm.infopanel_copyright.caption"
+msgid "Copyright"
+msgstr "Prawa autorskie"
+
+#: tappfrm.label11.caption
+msgctxt "tappfrm.label11.caption"
+msgid "Exif"
+msgstr "Exif"
+
+#: tappfrm.label13.caption
+msgctxt "tappfrm.label13.caption"
+msgid "Preview"
+msgstr "Podgląd"
+
+#: tappfrm.label15.caption
+msgctxt "tappfrm.label15.caption"
+msgid "E-Mail"
+msgstr "E-mail"
+
+#: tappfrm.lbl_apppanel_about_author.caption
+msgctxt "tappfrm.lbl_apppanel_about_author.caption"
+msgid "Author:"
+msgstr "Autor:"
+
+#: tappfrm.lbl_apppanel_about_email.caption
+msgctxt "tappfrm.lbl_apppanel_about_email.caption"
+msgid "E-Mail:"
+msgstr "E-Mail:"
+
+#: tappfrm.lbl_apppanel_about_version.caption
+msgctxt "tappfrm.lbl_apppanel_about_version.caption"
+msgid "Version:"
+msgstr "Wersja:"
+
+#: tappfrm.lbl_explorer_exif_author.caption
+msgctxt "tappfrm.lbl_explorer_exif_author.caption"
+msgid "Author"
+msgstr "Autor"
+
+#: tappfrm.lbl_explorer_exif_copyright.caption
+msgctxt "tappfrm.lbl_explorer_exif_copyright.caption"
+msgid "Copyright"
+msgstr "Prawa autorskie"
+
+#: tappfrm.lbl_iconbrws_file.caption
+msgctxt "tappfrm.lbl_iconbrws_file.caption"
+msgid "File:"
+msgstr "Plik:"
+
+#: tappfrm.lbl_iconbrws_index.caption
+msgctxt "tappfrm.lbl_iconbrws_index.caption"
+msgid "Index:"
+msgstr "Indeks:"
+
+#: tappfrm.lbl_iconbrws_index2.caption
+msgctxt "tappfrm.lbl_iconbrws_index2.caption"
+msgid "Icons in file:"
+msgstr "Ikon w pliku:"
+
+#: tappfrm.lbl_licensekey.caption
+msgctxt "tappfrm.lbl_licensekey.caption"
+msgid "License Key"
+msgstr "Klucz licencji"
+
+#: tappfrm.lbl_licensekey1.caption
+msgctxt "tappfrm.lbl_licensekey1.caption"
+msgid "License Informations:"
+msgstr "Informacje o licencji:"
+
+#: tappfrm.lbl_licensekey2.caption
+msgctxt "tappfrm.lbl_licensekey2.caption"
+msgid "License expired date:"
+msgstr "Data wygaśnięcia licencji:"
+
+#: tappfrm.lbl_licensekey3.caption
+msgctxt "tappfrm.lbl_licensekey3.caption"
+msgid "License Type:"
+msgstr "Typ licencji:"
+
+#: tappfrm.lbl_nameororganization.caption
+msgctxt "tappfrm.lbl_nameororganization.caption"
+msgid "Name or Organization"
+msgstr "Nazwa lub organizacja"
+
+#: tappfrm.lbl_plugins.caption
+msgctxt "tappfrm.lbl_plugins.caption"
+msgid "Plugins:"
+msgstr "Wtyczki:"
+
+#: tappfrm.lbl_settings_start_cfgfile.caption
+msgctxt "tappfrm.lbl_settings_start_cfgfile.caption"
+msgid "Configuration File:"
+msgstr "Plik ustawień:"
+
+#: tappfrm.lbl_settings_start_defautview.caption
+msgctxt "tappfrm.lbl_settings_start_defautview.caption"
+msgid "Default View:"
+msgstr "Widok domyślny:"
+
+#: tappfrm.lv_exifinfo.columns[0].caption
+msgctxt "tappfrm.lv_exifinfo.columns[0].caption"
+msgid "Name"
+msgstr "Nazwa"
+
+#: tappfrm.lv_exifinfo.columns[1].caption
+msgctxt "tappfrm.lv_exifinfo.columns[1].caption"
+msgid "Value"
+msgstr "Wartość"
+
+#: tappfrm.lv_plugin_list.columns[0].caption
+msgctxt "tappfrm.lv_plugin_list.columns[0].caption"
+msgid "ID"
+msgstr "ID"
+
+#: tappfrm.lv_plugin_list.columns[1].caption
+msgctxt "tappfrm.lv_plugin_list.columns[1].caption"
+msgid "Plugin name"
+msgstr "Nazwa wtyczki"
+
+#: tappfrm.lv_plugin_list.columns[2].caption
+msgctxt "tappfrm.lv_plugin_list.columns[2].caption"
+msgid "Plugin File"
+msgstr "Plik wtyczki"
+
+#: tappfrm.menuitem1.caption
+msgid "Refresh"
+msgstr "Odśwież"
+
+#: tappfrm.openwith_cancelbtn.caption
+msgctxt "tappfrm.openwith_cancelbtn.caption"
+msgid "Cancel"
+msgstr "Anuluj"
+
+#: tappfrm.speedbutton1.caption
+msgid "Save Settings"
+msgstr "Zapisz ustawienia"
+
+#: tappfrm.speedbutton14.caption
+msgctxt "tappfrm.speedbutton14.caption"
+msgid "Paths"
+msgstr "Scieżki"
+
+#: tappfrm.speedbutton2.caption
+msgctxt "tappfrm.speedbutton2.caption"
+msgid "Read Settings"
+msgstr "Wczytaj ustawienia"
+
+#: tappfrm.speedbutton3.caption
+msgid "Configure"
+msgstr "Konfiguruj"
+
+#: tappfrm.speedbutton4.caption
+msgctxt "tappfrm.speedbutton4.caption"
+msgid "About plugin"
+msgstr "O  wtyczce"
+
+#: tappfrm.speedbutton42.caption
+msgctxt "tappfrm.speedbutton42.caption"
+msgid "Other"
+msgstr "Inne"
+
+#: tappfrm.speedbutton43.caption
+msgctxt "tappfrm.speedbutton43.caption"
+msgid "Plugins"
+msgstr "Wtyczki"
+
+#: tappfrm.speedbutton44.caption
+msgctxt "tappfrm.speedbutton44.caption"
+msgid "Start and Exit"
+msgstr "Uruchamianie i zamykanie"
+
+#: tfrm_jpeg.caption
+msgctxt "tfrm_jpeg.caption"
+msgid "JPEG Settings"
+msgstr "Ustawienia JPEG"
+
+#: tfrm_jpeg.label1.caption
+msgid "Compresion level"
+msgstr "Poziom kompresji"
+
+#: tfrm_jpeg.sgjbutton1.caption
+msgctxt "tfrm_jpeg.sgjbutton1.caption"
+msgid "OK"
+msgstr "OK"
+
+#: tfrm_jpeg.sgjbutton2.caption
+msgctxt "tfrm_jpeg.sgjbutton2.caption"
+msgid "Cancel"
+msgstr "Anuluj"
+
+#: tfrm_jpeg.sgjpanel1.caption
+msgctxt "tfrm_jpeg.sgjpanel1.caption"
+msgid "JPEG Settings"
+msgstr "Ustawienia JPEG"
+
+#: tfrm_jpeg.tb_grayscale.caption
+msgid "Save as grayscale"
+msgstr "Zapisz w odcieniach szarości"
+
+#: tfrm_jpeg.tb_progressive.caption
+msgid "Save as progressive"
+msgstr "Zapisz jako progresywny"
+
+#: tfrm_webp.caption
+msgctxt "tfrm_webp.caption"
+msgid "WEBP Settings"
+msgstr "Ustawienia WEBP"
+
+#: tfrm_webp.label1.caption
+msgid "Quality"
+msgstr "Jakość"
+
+#: tfrm_webp.sgjbutton1.caption
+msgctxt "tfrm_webp.sgjbutton1.caption"
+msgid "OK"
+msgstr "OK"
+
+#: tfrm_webp.sgjbutton2.caption
+msgctxt "tfrm_webp.sgjbutton2.caption"
+msgid "Cancel"
+msgstr "Anuluj"
+
+#: tfrm_webp.sgjpanel1.caption
+msgctxt "tfrm_webp.sgjpanel1.caption"
+msgid "WEBP Settings"
+msgstr "Ustawienia WEBP"
+
+#: tfrm_webp.tb_grayscale.caption
+msgid "Lossless"
+msgstr "Bezstratny"
+
+#: tpvbatchfrm.brb_batchmode_conversion.caption
+msgctxt "tpvbatchfrm.brb_batchmode_conversion.caption"
+msgid "Conversion"
+msgstr "Konwersja"
+
+#: tpvbatchfrm.brb_batchmode_organize.caption
+msgctxt "tpvbatchfrm.brb_batchmode_organize.caption"
+msgid "Organize Files"
+msgstr "Organizuj pliki"
+
+#: tpvbatchfrm.brb_batchmode_plugins.caption
+msgctxt "tpvbatchfrm.brb_batchmode_plugins.caption"
+msgid "Plugins:"
+msgstr "Wtyczki:"
+
+#: tpvbatchfrm.brb_batchmode_rename.caption
+msgctxt "tpvbatchfrm.brb_batchmode_rename.caption"
+msgid "Rename Files"
+msgstr "Zmiana nazwy"
+
+#: tpvbatchfrm.brb_batchmode_renamedir.caption
+msgctxt "tpvbatchfrm.brb_batchmode_renamedir.caption"
+msgid "Rename All Files in Directory"
+msgstr "Zmiana nazwy wszystkich plików w Folderze"
+
+#: tpvbatchfrm.brb_batchmode_rename_customet.caption
+msgctxt "tpvbatchfrm.brb_batchmode_rename_customet.caption"
+msgid "Custom ExifTool Command"
+msgstr "Polecenie ExifTool"
+
+#: tpvbatchfrm.brb_batchmode_rename_numeric.caption
+msgctxt "tpvbatchfrm.brb_batchmode_rename_numeric.caption"
+msgid "Numeric"
+msgstr "Numeryczny"
+
+#: tpvbatchfrm.brb_batchmode_rename_scheme.caption
+msgctxt "tpvbatchfrm.brb_batchmode_rename_scheme.caption"
+msgid "Scheme"
+msgstr "Schemat"
+
+#: tpvbatchfrm.btn_advanced.caption
+msgid "Advanced"
+msgstr "Zaawansowane"
+
+#: tpvbatchfrm.btn_advanced1.caption
+msgid "Options"
+msgstr "Opcje"
+
+#: tpvbatchfrm.btn_cancelbatch.caption
+msgctxt "tpvbatchfrm.btn_cancelbatch.caption"
+msgid "Cancel"
+msgstr "Anuluj"
+
+#: tpvbatchfrm.btn_cancelbatch1.caption
+msgid "Rename Options"
+msgstr "Opcje zmiany nazw"
+
+#: tpvbatchfrm.btn_file_add.caption
+msgctxt "tpvbatchfrm.btn_file_add.caption"
+msgid "Add"
+msgstr "Dodaj"
+
+#: tpvbatchfrm.btn_file_addall.caption
+msgctxt "tpvbatchfrm.btn_file_addall.caption"
+msgid "Add All"
+msgstr "Dodaj wszystko"
+
+#: tpvbatchfrm.btn_file_remove.caption
+msgctxt "tpvbatchfrm.btn_file_remove.caption"
+msgid "Remove"
+msgstr "Usuń"
+
+#: tpvbatchfrm.btn_file_removeall.caption
+msgctxt "tpvbatchfrm.btn_file_removeall.caption"
+msgid "Remove All"
+msgstr "Usuń wszystko"
+
+#: tpvbatchfrm.btn_levelup.hint
+msgid "Level Up"
+msgstr "Poziom wyżej"
+
+#: tpvbatchfrm.btn_ok.caption
+msgctxt "tpvbatchfrm.btn_ok.caption"
+msgid "OK"
+msgstr "OK"
+
+#: tpvbatchfrm.btn_organizeopt.caption
+msgid "Organize Options"
+msgstr "Organizuj - opcje"
+
+#: tpvbatchfrm.btn_startbatch.caption
+msgctxt "tpvbatchfrm.btn_startbatch.caption"
+msgid "Start"
+msgstr "Uruchom"
+
+#: tpvbatchfrm.cb_resize_l.caption
+msgid "Set long side to"
+msgstr "Ustaw dłuższy bok na"
+
+#: tpvbatchfrm.cb_resize_percent.caption
+msgid "Set new size as percentage"
+msgstr "Ustaw nowy rozmiar procentowo"
+
+#: tpvbatchfrm.cb_resize_s.caption
+msgid "Set short side to"
+msgstr "Ustaw krótszą stronę na"
+
+#: tpvbatchfrm.cb_resize_wh.caption
+msgid "Set width and height"
+msgstr "Ustaw szerokość i wysokość"
+
+#: tpvbatchfrm.group_resize.caption
+msgctxt "tpvbatchfrm.Group_Resize.caption"
+msgid "Resize"
+msgstr "Zmiana rozmiaru"
+
+#: tpvbatchfrm.label1.caption
+msgid "File Rename Options"
+msgstr "Opcje zmiany nazw"
+
+#: tpvbatchfrm.label10.caption
+msgid "Output Dir:"
+msgstr "Katalog wyjściowy:"
+
+#: tpvbatchfrm.label2.caption
+msgid "Start from"
+msgstr "Start od"
+
+#: tpvbatchfrm.label4.caption
+msgid "Increment"
+msgstr "Inkrement"
+
+#: tpvbatchfrm.label5.caption
+msgctxt "tpvbatchfrm.label5.caption"
+msgid "Output format:"
+msgstr "Format wyjściowy:"
+
+#: tpvbatchfrm.lblposition.caption
+msgctxt "tpvbatchfrm.LblPosition.caption"
+msgid "Position"
+msgstr "Pozycja"
+
+#: tpvbatchfrm.lblposition1.caption
+msgctxt "tpvbatchfrm.lblposition1.caption"
+msgid "Position"
+msgstr "Pozycja"
+
+#: tpvbatchfrm.lbltxt.caption
+msgid "Text:"
+msgstr "Tekst:"
+
+#: tpvbatchfrm.lbltxt1.caption
+msgid "Path"
+msgstr "Ścieżka"
+
+#: tpvbatchfrm.lbl_filescount.caption
+msgctxt "tpvbatchfrm.lbl_filescount.caption"
+msgid "Files:"
+msgstr "Pliki:"
+
+#: tpvbatchfrm.lbl_filetypes.caption
+msgid "File Types:"
+msgstr "Typ plików:"
+
+#: tpvbatchfrm.lbl_path.caption
+msgctxt "tpvbatchfrm.lbl_path.caption"
+msgid "Path:"
+msgstr "Ścieżka:"
+
+#: tpvbatchfrm.lbl_pheight.caption
+msgctxt "tpvbatchfrm.lbl_pheight.caption"
+msgid "Height"
+msgstr "Wysokość"
+
+#: tpvbatchfrm.lbl_pwidth.caption
+msgctxt "tpvbatchfrm.lbl_pwidth.caption"
+msgid "Width"
+msgstr "Szerokość"
+
+#: tpvbatchfrm.lbl_selectdrive.caption
+msgctxt "tpvbatchfrm.lbl_selectdrive.caption"
+msgid "Select Drive"
+msgstr "Wybierz dysk"
+
+#: tpvbatchfrm.lbl_width.caption
+msgctxt "tpvbatchfrm.lbl_width.caption"
+msgid "Width"
+msgstr "Szerokość"
+
+#: tpvbatchfrm.lbl__height.caption
+msgctxt "tpvbatchfrm.lbl__height.caption"
+msgid "Height"
+msgstr "Wysokość"
+
+#: tpvbatchfrm.organize_btn_back.caption
+msgctxt "tpvbatchfrm.organize_btn_back.caption"
+msgid "Back"
+msgstr "Powrót"
+
+#: tpvbatchfrm.organize_btn_ok.caption
+msgctxt "tpvbatchfrm.organize_btn_ok.caption"
+msgid "OK"
+msgstr "OK"
+
+#: tpvbatchfrm.organize_lbl_header.caption
+msgid "File Organize Options"
+msgstr "Opcje Organizowania plików"
+
+#: tpvbatchfrm.organize_lbl_input.caption
+msgid "Input Directory"
+msgstr "Katalog wejściowy"
+
+#: tpvbatchfrm.organize_tb_copyfiles.caption
+msgid "Copy to new Directory(default - move)"
+msgstr "Kopiuj do nowego folderu(domyślnie - przenieś)"
+
+#: tpvbatchfrm.organize_tb_subdirs.caption
+msgid "Include files from subfolders"
+msgstr "Uwzględnij podfoldery"
+
+#: tpvbatchfrm.panel5.caption
+msgid "Color"
+msgstr "Kolor"
+
+#: tpvbatchfrm.rb_posbottomleft.caption
+msgctxt "tpvbatchfrm.rb_posbottomleft.caption"
+msgid "Bottom Left"
+msgstr "Dół Lewo"
+
+#: tpvbatchfrm.rb_posbottomright.caption
+msgctxt "tpvbatchfrm.rb_posbottomright.caption"
+msgid "Bottom Right"
+msgstr "Dół Prawo"
+
+#: tpvbatchfrm.rb_poscener.caption
+msgctxt "tpvbatchfrm.rb_poscener.caption"
+msgid "Center"
+msgstr "Środek"
+
+#: tpvbatchfrm.rb_postopleft.caption
+msgctxt "tpvbatchfrm.rb_postopleft.caption"
+msgid "Top Left"
+msgstr "Góra Lewo"
+
+#: tpvbatchfrm.rb_postopright.caption
+msgctxt "tpvbatchfrm.rb_postopright.caption"
+msgid "Top Right"
+msgstr "Góra Prawo"
+
+#: tpvbatchfrm.sgjgroupbox1.caption
+msgid "Batch Mode"
+msgstr "Typ konwersji"
+
+#: tpvbatchfrm.sgjpanel1.caption
+msgctxt "tpvbatchfrm.sgjpanel1.caption"
+msgid "Conversion"
+msgstr "Konwersja"
+
+#: tpvbatchfrm.sgjpanel2.caption
+msgctxt "tpvbatchfrm.sgjpanel2.caption"
+msgid "Image"
+msgstr "Obraz"
+
+#: tpvbatchfrm.sgjpanel3.caption
+msgctxt "tpvbatchfrm.sgjpanel3.caption"
+msgid "Text"
+msgstr "Tekst"
+
+#: tpvbatchfrm.speedbutton1.caption
+msgctxt "tpvbatchfrm.speedbutton1.caption"
+msgid "Back"
+msgstr "Powrót"
+
+#: tpvbatchfrm.speedbutton2.caption
+msgctxt "tpvbatchfrm.speedbutton2.caption"
+msgid "Back"
+msgstr "Powrót"
+
+#: tpvbatchfrm.speedbutton4.caption
+msgctxt "tpvbatchfrm.speedbutton4.caption"
+msgid "Back"
+msgstr "Powrót"
+
+#: tpvbatchfrm.speedbutton5.caption
+msgid "Font"
+msgstr "Czcionka"
+
+#: tpvbatchfrm.tbtn_aspectratio.caption
+msgctxt "tpvbatchfrm.TBtn_AspectRatio.caption"
+msgid "Preserve aspect ratio"
+msgstr "Zachowaj proporcje"
+
+#: tpvbatchfrm.tb_watermarkimage.caption
+msgctxt "tpvbatchfrm.tb_watermarkimage.caption"
+msgid "Image"
+msgstr "Obraz"
+
+#: tpvbatchfrm.tb_watermarktext.caption
+msgctxt "tpvbatchfrm.tb_watermarktext.caption"
+msgid "Text"
+msgstr "Tekst"
+
+#: tpvbatchfrm.watermark_panel.caption
+msgctxt "tpvbatchfrm.Watermark_panel.caption"
+msgid "Watermark"
+msgstr "Znak wodny"
+
+#: tqrform.bgraspeedbutton1.caption
+msgid "Create QR Code"
+msgstr "Utwórz kod QR"
+
+#: tqrform.bgraspeedbutton2.caption
+msgid "Save QR Code As..."
+msgstr "Zapisz kod QR jako..."
+
+#: tqrform.label1.caption
+msgid "QR Code Text:"
+msgstr "Tekst kodu QR:"
+
+#: tsplashform.button1.caption
+msgctxt "tsplashform.button1.caption"
+msgid "OK"
+msgstr "OK"
+
+#: tsplashform.label1.caption
+msgctxt "tsplashform.label1.caption"
+msgid "This app is unregistered or license has expired"
+msgstr "Ten program nie został zarejestrowany lub licencja wygasła"
+
