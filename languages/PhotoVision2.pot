@@ -203,6 +203,11 @@ msgstr ""
 msgid "Image View"
 msgstr ""
 
+#: tappfrm.btn_titlepanel_player.hint
+msgctxt "tappfrm.btn_titlepanel_player.hint"
+msgid "Player"
+msgstr ""
+
 #: tappfrm.btn_titlepanel_printscreen.hint
 msgctxt "tappfrm.btn_titlepanel_printscreen.hint"
 msgid "Print Screen"
@@ -210,6 +215,18 @@ msgstr ""
 
 #: tappfrm.btn_titlepanel_qr.hint
 msgid "QR Code Generator"
+msgstr ""
+
+#: tappfrm.cbmodalcapture.caption
+msgid "Modal"
+msgstr ""
+
+#: tappfrm.cbnativecapture.caption
+msgid "Native"
+msgstr ""
+
+#: tappfrm.cbshowui.caption
+msgid "ShowUI"
 msgstr ""
 
 #: tappfrm.dlg_openwidth_header.caption
@@ -282,17 +299,36 @@ msgctxt "tappfrm.infopanel_copyright.caption"
 msgid "Copyright"
 msgstr ""
 
+#: tappfrm.label1.caption
+msgctxt "tappfrm.label1.caption"
+msgid "Scan"
+msgstr ""
+
 #: tappfrm.label11.caption
 msgctxt "tappfrm.label11.caption"
 msgid "Exif"
 msgstr ""
 
 #: tappfrm.label13.caption
+msgctxt "tappfrm.label13.caption"
 msgid "Preview"
 msgstr ""
 
 #: tappfrm.label15.caption
 msgid "E-Mail"
+msgstr ""
+
+#: tappfrm.label2.caption
+msgctxt "tappfrm.label2.caption"
+msgid "Paper"
+msgstr ""
+
+#: tappfrm.label3.caption
+msgid "Image type"
+msgstr ""
+
+#: tappfrm.label4.caption
+msgid "Resolution"
 msgstr ""
 
 #: tappfrm.lbl_apppanel_about_author.caption
@@ -395,6 +431,77 @@ msgctxt "tappfrm.openwith_cancelbtn.caption"
 msgid "Cancel"
 msgstr ""
 
+#: tappfrm.printer_pnprintprev.caption
+msgid "Print Preview"
+msgstr ""
+
+#: tappfrm.printer_pnprintsize.caption
+msgid "Print size"
+msgstr ""
+
+#: tappfrm.print_btnprint.caption
+msgctxt "tappfrm.print_btnprint.caption"
+msgid "Print"
+msgstr ""
+
+#: tappfrm.print_btnprint1.caption
+msgctxt "tappfrm.print_btnprint1.caption"
+msgid "Preview"
+msgstr ""
+
+#: tappfrm.print_btnprintsetup.caption
+msgctxt "tappfrm.print_btnprintsetup.caption"
+msgid "Print Setup"
+msgstr ""
+
+#: tappfrm.print_lblpaper.caption
+msgctxt "tappfrm.print_lblpaper.caption"
+msgid "Paper"
+msgstr ""
+
+#: tappfrm.print_lblprinters.caption
+msgid "Printer"
+msgstr ""
+
+#: tappfrm.print_lblprintheader.caption
+msgctxt "tappfrm.print_lblprintheader.caption"
+msgid "Print"
+msgstr ""
+
+#: tappfrm.print_rdlandscape.caption
+msgctxt "tappfrm.print_rdlandscape.caption"
+msgid "Landscape"
+msgstr ""
+
+#: tappfrm.print_rdportrait.caption
+msgctxt "tappfrm.print_rdportrait.caption"
+msgid "Portrait"
+msgstr ""
+
+#: tappfrm.print_rdprintsizefit.caption
+msgid "Best fit to page"
+msgstr ""
+
+#: tappfrm.print_rdprintsizeoriginal.caption
+msgid "Original"
+msgstr ""
+
+#: tappfrm.print_rdprintsizestretchtopage.caption
+msgid "Stretch to page"
+msgstr ""
+
+#: tappfrm.scan_btacquire.caption
+msgid "Acquire"
+msgstr ""
+
+#: tappfrm.sgjbutton1.caption
+msgid "Select source"
+msgstr ""
+
+#: tappfrm.sgjpanel1.caption
+msgid "Orientation"
+msgstr ""
+
 #: tappfrm.speedbutton1.caption
 msgid "Save Settings"
 msgstr ""
@@ -406,6 +513,20 @@ msgstr ""
 #: tappfrm.speedbutton2.caption
 msgctxt "tappfrm.speedbutton2.caption"
 msgid "Read Settings"
+msgstr ""
+
+#: tappfrm.speedbutton26.caption
+msgctxt "tappfrm.speedbutton26.caption"
+msgid "Scan"
+msgstr ""
+
+#: tappfrm.speedbutton27.caption
+msgctxt "tappfrm.speedbutton27.caption"
+msgid "Print"
+msgstr ""
+
+#: tappfrm.speedbutton28.caption
+msgid ">"
 msgstr ""
 
 #: tappfrm.speedbutton3.caption
@@ -427,6 +548,20 @@ msgstr ""
 
 #: tappfrm.speedbutton44.caption
 msgid "Start and Exit"
+msgstr ""
+
+#: tfrm_avif.sgjbutton1.caption
+msgctxt "tfrm_avif.sgjbutton1.caption"
+msgid "OK"
+msgstr ""
+
+#: tfrm_avif.sgjbutton2.caption
+msgctxt "tfrm_avif.sgjbutton2.caption"
+msgid "Cancel"
+msgstr ""
+
+#: tfrm_avif.sgjpanel1.caption
+msgid "AVIF Settings"
 msgstr ""
 
 #: tfrm_jpeg.caption
@@ -459,6 +594,24 @@ msgstr ""
 
 #: tfrm_jpeg.tb_progressive.caption
 msgid "Save as progressive"
+msgstr ""
+
+#: tfrm_pnm.sgjbutton1.caption
+msgctxt "tfrm_pnm.sgjbutton1.caption"
+msgid "OK"
+msgstr ""
+
+#: tfrm_pnm.sgjbutton2.caption
+msgctxt "tfrm_pnm.sgjbutton2.caption"
+msgid "Cancel"
+msgstr ""
+
+#: tfrm_pnm.sgjpanel1.caption
+msgid "PNM Settings"
+msgstr ""
+
+#: tfrm_pnm.tb_binary.caption
+msgid "ASCII / Binary"
 msgstr ""
 
 #: tfrm_webp.caption
@@ -557,10 +710,6 @@ msgstr ""
 
 #: tpvbatchfrm.btn_file_removeall.caption
 msgid "Remove All"
-msgstr ""
-
-#: tpvbatchfrm.btn_levelup.hint
-msgid "Level Up"
 msgstr ""
 
 #: tpvbatchfrm.btn_ok.caption
