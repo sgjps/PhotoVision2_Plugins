@@ -237,6 +237,11 @@ msgctxt "tappfrm.btn_titlepanel_imgview.hint"
 msgid "Image View"
 msgstr "Widok obrazu"
 
+#: tappfrm.btn_titlepanel_player.hint
+msgctxt "tappfrm.btn_titlepanel_player.hint"
+msgid "Player"
+msgstr "Zrzut Ekranu"
+
 #: tappfrm.btn_titlepanel_printscreen.hint
 msgctxt "tappfrm.btn_titlepanel_printscreen.hint"
 msgid "Print Screen"
@@ -245,6 +250,18 @@ msgstr "Zrzut Ekranu"
 #: tappfrm.btn_titlepanel_qr.hint
 msgid "QR Code Generator"
 msgstr "Generator kodów QR"
+
+#: tappfrm.cbmodalcapture.caption
+msgid "Modal"
+msgstr ""
+
+#: tappfrm.cbnativecapture.caption
+msgid "Native"
+msgstr ""
+
+#: tappfrm.cbshowui.caption
+msgid "ShowUI"
+msgstr "Wyświetl UI"
 
 #: tappfrm.dlg_openwidth_header.caption
 msgid "How do you want to open this file?"
@@ -329,6 +346,11 @@ msgctxt "tappfrm.infopanel_copyright.caption"
 msgid "Copyright"
 msgstr "Prawa autorskie"
 
+#: tappfrm.label1.caption
+msgctxt "tappfrm.label1.caption"
+msgid "Scan"
+msgstr "Skanuj"
+
 #: tappfrm.label11.caption
 msgctxt "tappfrm.label11.caption"
 msgid "Exif"
@@ -343,6 +365,19 @@ msgstr "Podgląd"
 msgctxt "tappfrm.label15.caption"
 msgid "E-Mail"
 msgstr "E-mail"
+
+#: tappfrm.label2.caption
+msgctxt "tappfrm.label2.caption"
+msgid "Paper"
+msgstr "Papier"
+
+#: tappfrm.label3.caption
+msgid "Image type"
+msgstr "Typ obrazu"
+
+#: tappfrm.label4.caption
+msgid "Resolution"
+msgstr "Rozdzielczość"
 
 #: tappfrm.lbl_apppanel_about_author.caption
 msgctxt "tappfrm.lbl_apppanel_about_author.caption"
@@ -458,6 +493,77 @@ msgctxt "tappfrm.openwith_cancelbtn.caption"
 msgid "Cancel"
 msgstr "Anuluj"
 
+#: tappfrm.printer_pnprintprev.caption
+msgid "Print Preview"
+msgstr "Podgląd wydruku"
+
+#: tappfrm.printer_pnprintsize.caption
+msgid "Print size"
+msgstr "Rozmiar wydruku"
+
+#: tappfrm.print_btnprint.caption
+msgctxt "tappfrm.print_btnprint.caption"
+msgid "Print"
+msgstr "Drukuj"
+
+#: tappfrm.print_btnprint1.caption
+msgctxt "tappfrm.print_btnprint1.caption"
+msgid "Preview"
+msgstr "Podgląd"
+
+#: tappfrm.print_btnprintsetup.caption
+msgctxt "tappfrm.print_btnprintsetup.caption"
+msgid "Print Setup"
+msgstr "Ustawienia wydruku"
+
+#: tappfrm.print_lblpaper.caption
+msgctxt "tappfrm.print_lblpaper.caption"
+msgid "Paper"
+msgstr "Papier"
+
+#: tappfrm.print_lblprinters.caption
+msgid "Printer"
+msgstr "Drukarka"
+
+#: tappfrm.print_lblprintheader.caption
+msgctxt "tappfrm.print_lblprintheader.caption"
+msgid "Print"
+msgstr "Drukuj"
+
+#: tappfrm.print_rdlandscape.caption
+msgctxt "tappfrm.print_rdlandscape.caption"
+msgid "Landscape"
+msgstr "Poziomo"
+
+#: tappfrm.print_rdportrait.caption
+msgctxt "tappfrm.print_rdportrait.caption"
+msgid "Portrait"
+msgstr "Pionowo"
+
+#: tappfrm.print_rdprintsizefit.caption
+msgid "Best fit to page"
+msgstr "Dopasuj do strony"
+
+#: tappfrm.print_rdprintsizeoriginal.caption
+msgid "Original"
+msgstr "Oryginalny"
+
+#: tappfrm.print_rdprintsizestretchtopage.caption
+msgid "Stretch to page"
+msgstr "Rozciagnij do strony"
+
+#: tappfrm.scan_btacquire.caption
+msgid "Acquire"
+msgstr "Przechwyć"
+
+#: tappfrm.sgjbutton1.caption
+msgid "Select source"
+msgstr "Wybierz źródło"
+
+#: tappfrm.sgjpanel1.caption
+msgid "Orientation"
+msgstr "Orientacja"
+
 #: tappfrm.speedbutton1.caption
 msgid "Save Settings"
 msgstr "Zapisz ustawienia"
@@ -471,6 +577,20 @@ msgstr "Scieżki"
 msgctxt "tappfrm.speedbutton2.caption"
 msgid "Read Settings"
 msgstr "Wczytaj ustawienia"
+
+#: tappfrm.speedbutton26.caption
+msgctxt "tappfrm.speedbutton26.caption"
+msgid "Scan"
+msgstr "Skanuj"
+
+#: tappfrm.speedbutton27.caption
+msgctxt "tappfrm.speedbutton27.caption"
+msgid "Print"
+msgstr "Drukuj"
+
+#: tappfrm.speedbutton28.caption
+msgid ">"
+msgstr ""
 
 #: tappfrm.speedbutton3.caption
 msgid "Configure"
@@ -495,6 +615,20 @@ msgstr "Wtyczki"
 msgctxt "tappfrm.speedbutton44.caption"
 msgid "Start and Exit"
 msgstr "Uruchamianie i zamykanie"
+
+#: tfrm_avif.sgjbutton1.caption
+msgctxt "tfrm_avif.sgjbutton1.caption"
+msgid "OK"
+msgstr "OK"
+
+#: tfrm_avif.sgjbutton2.caption
+msgctxt "tfrm_avif.sgjbutton2.caption"
+msgid "Cancel"
+msgstr "Anuluj"
+
+#: tfrm_avif.sgjpanel1.caption
+msgid "AVIF Settings"
+msgstr "Ustawienia Avif"
 
 #: tfrm_jpeg.caption
 msgctxt "tfrm_jpeg.caption"
@@ -527,6 +661,24 @@ msgstr "Zapisz w odcieniach szarości"
 #: tfrm_jpeg.tb_progressive.caption
 msgid "Save as progressive"
 msgstr "Zapisz jako progresywny"
+
+#: tfrm_pnm.sgjbutton1.caption
+msgctxt "tfrm_pnm.sgjbutton1.caption"
+msgid "OK"
+msgstr "OK"
+
+#: tfrm_pnm.sgjbutton2.caption
+msgctxt "tfrm_pnm.sgjbutton2.caption"
+msgid "Cancel"
+msgstr "Anuluj"
+
+#: tfrm_pnm.sgjpanel1.caption
+msgid "PNM Settings"
+msgstr "Ustawienia PNM"
+
+#: tfrm_pnm.tb_binary.caption
+msgid "ASCII / Binary"
+msgstr "ASCII / Binarny"
 
 #: tfrm_webp.caption
 msgctxt "tfrm_webp.caption"
@@ -632,10 +784,6 @@ msgstr "Usuń"
 msgctxt "tpvbatchfrm.btn_file_removeall.caption"
 msgid "Remove All"
 msgstr "Usuń wszystko"
-
-#: tpvbatchfrm.btn_levelup.hint
-msgid "Level Up"
-msgstr "Poziom wyżej"
 
 #: tpvbatchfrm.btn_ok.caption
 msgctxt "tpvbatchfrm.btn_ok.caption"
@@ -884,4 +1032,3 @@ msgstr "OK"
 msgctxt "tsplashform.label1.caption"
 msgid "This app is unregistered or license has expired"
 msgstr "Ten program nie został zarejestrowany lub licencja wygasła"
-
