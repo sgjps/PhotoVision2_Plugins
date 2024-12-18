@@ -35,6 +35,47 @@ msgstr ""
 msgid "Update"
 msgstr ""
 
+#: frm_abumcreator.rs_wac_cp
+msgctxt "frm_abumcreator.rs_wac_cp"
+msgid "Copy"
+msgstr ""
+
+#: frm_abumcreator.rs_wac_cp_files
+msgid "Copy files..."
+msgstr ""
+
+#: frm_abumcreator.rs_wac_created
+msgid "Web Album created!"
+msgstr ""
+
+#: frm_abumcreator.rs_wac_createhtml
+msgid "Create HTML..."
+msgstr ""
+
+#: frm_abumcreator.rs_wac_createthumb
+msgid "Create Thumbnails..."
+msgstr ""
+
+#: frm_abumcreator.rs_wac_load_more
+msgid "Load more images"
+msgstr ""
+
+#: frm_abumcreator.rs_wac_starting
+msgid "Starting..."
+msgstr ""
+
+#: frm_abumcreator.rs_wac_statuserror
+msgid " Status: Error"
+msgstr ""
+
+#: frm_abumcreator.rs_wac_statusok
+msgid " Status: OK"
+msgstr ""
+
+#: frm_abumcreator.rs_wac_thumbcreated
+msgid "Thumbnails created..."
+msgstr ""
+
 #: mainform.openfiletitle
 msgid "Open existing File"
 msgstr ""
@@ -190,8 +231,13 @@ msgctxt "tappfrm.btn_register.caption"
 msgid "Register"
 msgstr ""
 
-#: tappfrm.btn_titlebar_apppanel_file.caption
+#: tappfrm.btn_titlebar_apppanel_file.hint
+msgctxt "tappfrm.btn_titlebar_apppanel_file.hint"
 msgid "File"
+msgstr ""
+
+#: tappfrm.btn_titlepanel_albumcreator.hint
+msgid "Web Album Creator"
 msgstr ""
 
 #: tappfrm.btn_titlepanel_explorer.hint
@@ -201,6 +247,11 @@ msgstr ""
 
 #: tappfrm.btn_titlepanel_imgview.hint
 msgid "Image View"
+msgstr ""
+
+#: tappfrm.btn_titlepanel_pdf.hint
+msgctxt "tappfrm.btn_titlepanel_pdf.hint"
+msgid "PDF Reader"
 msgstr ""
 
 #: tappfrm.btn_titlepanel_player.hint
@@ -515,22 +566,32 @@ msgctxt "tappfrm.speedbutton2.caption"
 msgid "Read Settings"
 msgstr ""
 
-#: tappfrm.speedbutton26.caption
-msgctxt "tappfrm.speedbutton26.caption"
+#: tappfrm.speedbutton26.hint
+msgctxt "tappfrm.speedbutton26.hint"
 msgid "Scan"
 msgstr ""
 
-#: tappfrm.speedbutton27.caption
-msgctxt "tappfrm.speedbutton27.caption"
-msgid "Print"
+#: tappfrm.speedbutton29.caption
+msgctxt "tappfrm.speedbutton29.caption"
+msgid "X"
 msgstr ""
 
-#: tappfrm.speedbutton28.caption
-msgid ">"
+#: tappfrm.speedbutton29.hint
+msgctxt "tappfrm.speedbutton29.hint"
+msgid "Copy"
 msgstr ""
 
 #: tappfrm.speedbutton3.caption
 msgid "Configure"
+msgstr ""
+
+#: tappfrm.speedbutton30.hint
+msgid "Paste"
+msgstr ""
+
+#: tappfrm.speedbutton31.hint
+msgctxt "tappfrm.speedbutton31.hint"
+msgid "Copy"
 msgstr ""
 
 #: tappfrm.speedbutton4.caption
@@ -550,6 +611,53 @@ msgstr ""
 msgid "Start and Exit"
 msgstr ""
 
+#: tfrmalbumcreator.wac_bt_next.caption
+msgid "Next"
+msgstr ""
+
+#: tfrmalbumcreator.wac_bt_next1.caption
+msgid "Add from disk"
+msgstr ""
+
+#: tfrmalbumcreator.wac_lbl_addfiles.caption
+msgid "Add files"
+msgstr ""
+
+#: tfrmalbumcreator.wac_lbl_customize.caption
+msgid "Customize"
+msgstr ""
+
+#: tfrmalbumcreator.wac_lb_caption.caption
+msgid "Caption:"
+msgstr ""
+
+#: tfrmalbumcreator.wac_lb_color_bg.caption
+msgid "Background color:"
+msgstr ""
+
+#: tfrmalbumcreator.wac_lb_color_txt.caption
+msgctxt "tfrmalbumcreator.wac_lb_color_txt.caption"
+msgid "Text color:"
+msgstr ""
+
+#: tfrmalbumcreator.wac_lb_description.caption
+msgid "Description:"
+msgstr ""
+
+#: tfrmalbumcreator.wac_lb_thumbquality_txt.caption
+msgctxt "tfrmalbumcreator.wac_lb_thumbquality_txt.caption"
+msgid "85%"
+msgstr ""
+
+#: tfrmalbumcreator.wac_lb_thumbquality_txt1.caption
+msgctxt "tfrmalbumcreator.wac_lb_thumbquality_txt1.caption"
+msgid "Thumbnails quality:"
+msgstr ""
+
+#: tfrmalbumcreator.wac_lb_unreghint.caption
+msgid "Description, Background and Text color are ignored on Unregistered version."
+msgstr ""
+
 #: tfrm_avif.sgjbutton1.caption
 msgctxt "tfrm_avif.sgjbutton1.caption"
 msgid "OK"
@@ -564,12 +672,37 @@ msgstr ""
 msgid "AVIF Settings"
 msgstr ""
 
+#: tfrm_jng.label1.caption
+msgctxt "tfrm_jng.label1.caption"
+msgid "Compresion level"
+msgstr ""
+
+#: tfrm_jng.sgjbutton1.caption
+msgctxt "tfrm_jng.sgjbutton1.caption"
+msgid "OK"
+msgstr ""
+
+#: tfrm_jng.sgjbutton2.caption
+msgctxt "tfrm_jng.sgjbutton2.caption"
+msgid "Cancel"
+msgstr ""
+
+#: tfrm_jng.sgjpanel1.caption
+msgid "JNG Settings"
+msgstr ""
+
+#: tfrm_jng.tb_progressive.caption
+msgctxt "tfrm_jng.tb_progressive.caption"
+msgid "Save as progressive"
+msgstr ""
+
 #: tfrm_jpeg.caption
 msgctxt "tfrm_jpeg.caption"
 msgid "JPEG Settings"
 msgstr ""
 
 #: tfrm_jpeg.label1.caption
+msgctxt "tfrm_jpeg.label1.caption"
 msgid "Compresion level"
 msgstr ""
 
@@ -593,6 +726,31 @@ msgid "Save as grayscale"
 msgstr ""
 
 #: tfrm_jpeg.tb_progressive.caption
+msgctxt "tfrm_jpeg.tb_progressive.caption"
+msgid "Save as progressive"
+msgstr ""
+
+#: tfrm_mng.label1.caption
+msgctxt "tfrm_mng.label1.caption"
+msgid "Compresion level"
+msgstr ""
+
+#: tfrm_mng.sgjbutton1.caption
+msgctxt "tfrm_mng.sgjbutton1.caption"
+msgid "OK"
+msgstr ""
+
+#: tfrm_mng.sgjbutton2.caption
+msgctxt "tfrm_mng.sgjbutton2.caption"
+msgid "Cancel"
+msgstr ""
+
+#: tfrm_mng.sgjpanel1.caption
+msgid "MNG Settings"
+msgstr ""
+
+#: tfrm_mng.tb_progressive.caption
+msgctxt "tfrm_mng.tb_progressive.caption"
 msgid "Save as progressive"
 msgstr ""
 
@@ -640,6 +798,11 @@ msgstr ""
 
 #: tfrm_webp.tb_grayscale.caption
 msgid "Lossless"
+msgstr ""
+
+#: tpvbatchfrm.bc_useselecteddir.caption
+msgctxt "tpvbatchfrm.bc_useselecteddir.caption"
+msgid "Use Selected directory"
 msgstr ""
 
 #: tpvbatchfrm.brb_batchmode_conversion.caption
