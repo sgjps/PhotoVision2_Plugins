@@ -51,6 +51,47 @@ msgctxt "App Update Dialog"
 msgid "Update"
 msgstr "Aktualizacja"
 
+#: frm_abumcreator.rs_wac_cp
+msgctxt "frm_abumcreator.rs_wac_cp"
+msgid "Copy"
+msgstr "Kopiuj"
+
+#: frm_abumcreator.rs_wac_cp_files
+msgid "Copy files..."
+msgstr ""
+
+#: frm_abumcreator.rs_wac_created
+msgid "Web Album created!"
+msgstr ""
+
+#: frm_abumcreator.rs_wac_createhtml
+msgid "Create HTML..."
+msgstr ""
+
+#: frm_abumcreator.rs_wac_createthumb
+msgid "Create Thumbnails..."
+msgstr ""
+
+#: frm_abumcreator.rs_wac_load_more
+msgid "Load more images"
+msgstr ""
+
+#: frm_abumcreator.rs_wac_starting
+msgid "Starting..."
+msgstr ""
+
+#: frm_abumcreator.rs_wac_statuserror
+msgid " Status: Error"
+msgstr ""
+
+#: frm_abumcreator.rs_wac_statusok
+msgid " Status: OK"
+msgstr ""
+
+#: frm_abumcreator.rs_wac_thumbcreated
+msgid "Thumbnails created..."
+msgstr ""
+
 #: mainform.openfiletitle
 msgid "Open existing File"
 msgstr "Otwórz istniejący plik"
@@ -222,10 +263,14 @@ msgctxt "tappfrm.btn_register.caption"
 msgid "Register"
 msgstr "Zarejestruj"
 
-#: tappfrm.btn_titlebar_apppanel_file.caption
-msgctxt "tappfrm.btn_titlebar_apppanel_file.caption"
+#: tappfrm.btn_titlebar_apppanel_file.hint
+msgctxt "tappfrm.btn_titlebar_apppanel_file.hint"
 msgid "File"
 msgstr "Plik"
+
+#: tappfrm.btn_titlepanel_albumcreator.hint
+msgid "Web Album Creator"
+msgstr "Kreator Albumów Sieciowych"
 
 #: tappfrm.btn_titlepanel_explorer.hint
 msgctxt "tappfrm.btn_titlepanel_explorer.hint"
@@ -236,6 +281,11 @@ msgstr "Widok Eksploratora"
 msgctxt "tappfrm.btn_titlepanel_imgview.hint"
 msgid "Image View"
 msgstr "Widok obrazu"
+
+#: tappfrm.btn_titlepanel_pdf.hint
+msgctxt "tappfrm.btn_titlepanel_pdf.hint"
+msgid "PDF Reader"
+msgstr "Czytnik PDF"
 
 #: tappfrm.btn_titlepanel_player.hint
 msgctxt "tappfrm.btn_titlepanel_player.hint"
@@ -578,23 +628,32 @@ msgctxt "tappfrm.speedbutton2.caption"
 msgid "Read Settings"
 msgstr "Wczytaj ustawienia"
 
-#: tappfrm.speedbutton26.caption
-msgctxt "tappfrm.speedbutton26.caption"
+#: tappfrm.speedbutton26.hint
+msgctxt "tappfrm.speedbutton26.hint"
 msgid "Scan"
 msgstr "Skanuj"
 
-#: tappfrm.speedbutton27.caption
-msgctxt "tappfrm.speedbutton27.caption"
-msgid "Print"
-msgstr "Drukuj"
-
-#: tappfrm.speedbutton28.caption
-msgid ">"
+#: tappfrm.speedbutton29.caption
+msgid "X"
 msgstr ""
+
+#: tappfrm.speedbutton29.hint
+msgctxt "tappfrm.speedbutton29.hint"
+msgid "Copy"
+msgstr "Kopiuj"
 
 #: tappfrm.speedbutton3.caption
 msgid "Configure"
 msgstr "Konfiguruj"
+
+#: tappfrm.speedbutton30.hint
+msgid "Paste"
+msgstr "Wklej"
+
+#: tappfrm.speedbutton31.hint
+msgctxt "tappfrm.speedbutton31.hint"
+msgid "Copy"
+msgstr "Kopiuj"
 
 #: tappfrm.speedbutton4.caption
 msgctxt "tappfrm.speedbutton4.caption"
@@ -616,6 +675,53 @@ msgctxt "tappfrm.speedbutton44.caption"
 msgid "Start and Exit"
 msgstr "Uruchamianie i zamykanie"
 
+#: tfrmalbumcreator.wac_bt_next.caption
+msgid "Next"
+msgstr "Dalej"
+
+#: tfrmalbumcreator.wac_bt_next1.caption
+msgid "Add from disk"
+msgstr "Dodaj z dysku"
+
+#: tfrmalbumcreator.wac_lbl_addfiles.caption
+msgid "Add files"
+msgstr "Dodaj pliki"
+
+#: tfrmalbumcreator.wac_lbl_customize.caption
+msgid "Customize"
+msgstr "Dostosuj"
+
+#: tfrmalbumcreator.wac_lb_caption.caption
+msgid "Caption:"
+msgstr "Nagłówek:"
+
+#: tfrmalbumcreator.wac_lb_color_bg.caption
+msgid "Background color:"
+msgstr "Kolor tła:"
+
+#: tfrmalbumcreator.wac_lb_color_txt.caption
+msgctxt "tfrmalbumcreator.wac_lb_color_txt.caption"
+msgid "Text color:"
+msgstr "Kolor tekstu:"
+
+#: tfrmalbumcreator.wac_lb_description.caption
+msgid "Description:"
+msgstr "Opis:"
+
+#: tfrmalbumcreator.wac_lb_thumbquality_txt.caption
+msgctxt "tfrmalbumcreator.wac_lb_thumbquality_txt.caption"
+msgid "85%"
+msgstr ""
+
+#: tfrmalbumcreator.wac_lb_thumbquality_txt1.caption
+msgctxt "tfrmalbumcreator.wac_lb_thumbquality_txt1.caption"
+msgid "Thumbnails quality:"
+msgstr "Jakość miniatur:"
+
+#: tfrmalbumcreator.wac_lb_unreghint.caption
+msgid "Description, Background and Text color are ignored on Unregistered version."
+msgstr "Opis, Kolor tła i  kolor tekstu są ignorowane w przypadku niezarejestrowanej wersji programu."
+
 #: tfrm_avif.sgjbutton1.caption
 msgctxt "tfrm_avif.sgjbutton1.caption"
 msgid "OK"
@@ -630,12 +736,37 @@ msgstr "Anuluj"
 msgid "AVIF Settings"
 msgstr "Ustawienia Avif"
 
+#: tfrm_jng.label1.caption
+msgctxt "tfrm_jng.label1.caption"
+msgid "Compresion level"
+msgstr "Poziom kompresji"
+
+#: tfrm_jng.sgjbutton1.caption
+msgctxt "tfrm_jng.sgjbutton1.caption"
+msgid "OK"
+msgstr "OK"
+
+#: tfrm_jng.sgjbutton2.caption
+msgctxt "tfrm_jng.sgjbutton2.caption"
+msgid "Cancel"
+msgstr "Anuluj"
+
+#: tfrm_jng.sgjpanel1.caption
+msgid "JNG Settings"
+msgstr "Ustawienia JNG"
+
+#: tfrm_jng.tb_progressive.caption
+msgctxt "tfrm_jng.tb_progressive.caption"
+msgid "Save as progressive"
+msgstr "Zapisz jako progresywny"
+
 #: tfrm_jpeg.caption
 msgctxt "tfrm_jpeg.caption"
 msgid "JPEG Settings"
 msgstr "Ustawienia JPEG"
 
 #: tfrm_jpeg.label1.caption
+msgctxt "tfrm_jpeg.label1.caption"
 msgid "Compresion level"
 msgstr "Poziom kompresji"
 
@@ -659,6 +790,31 @@ msgid "Save as grayscale"
 msgstr "Zapisz w odcieniach szarości"
 
 #: tfrm_jpeg.tb_progressive.caption
+msgctxt "tfrm_jpeg.tb_progressive.caption"
+msgid "Save as progressive"
+msgstr "Zapisz jako progresywny"
+
+#: tfrm_mng.label1.caption
+msgctxt "tfrm_mng.label1.caption"
+msgid "Compresion level"
+msgstr "Poziom kompresji"
+
+#: tfrm_mng.sgjbutton1.caption
+msgctxt "tfrm_mng.sgjbutton1.caption"
+msgid "OK"
+msgstr "OK"
+
+#: tfrm_mng.sgjbutton2.caption
+msgctxt "tfrm_mng.sgjbutton2.caption"
+msgid "Cancel"
+msgstr "Anuluj"
+
+#: tfrm_mng.sgjpanel1.caption
+msgid "MNG Settings"
+msgstr "Ustawienia MNG"
+
+#: tfrm_mng.tb_progressive.caption
+msgctxt "tfrm_mng.tb_progressive.caption"
 msgid "Save as progressive"
 msgstr "Zapisz jako progresywny"
 
@@ -707,6 +863,11 @@ msgstr "Ustawienia WEBP"
 #: tfrm_webp.tb_grayscale.caption
 msgid "Lossless"
 msgstr "Bezstratny"
+
+#: tpvbatchfrm.bc_useselecteddir.caption
+msgctxt "tpvbatchfrm.bc_useselecteddir.caption"
+msgid "Use Selected directory"
+msgstr "Użyj wybranego folderu"
 
 #: tpvbatchfrm.brb_batchmode_conversion.caption
 msgctxt "tpvbatchfrm.brb_batchmode_conversion.caption"
